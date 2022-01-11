@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 
-Checkout the live version here:
+Checkout the live version here: https://csb-t8ezo-8hrm62gcm-ieulysses.vercel.app/
 
 This is yet another mini project, Essentially this is a glorified counter with some custom styling from mui. If you boot this up you'll see a basic counter that allows you to increase , decrease and reset the counter. The value of the counter corrosponds to a value in the array values=[1.2.3.4.5.6.7] tucked away in the context. So by default the starting value for the counter is  0 which returns the value of values[0] which is 1. 
 
